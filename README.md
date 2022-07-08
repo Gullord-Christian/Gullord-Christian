@@ -1,7 +1,9 @@
 Hi, I’m @Gullord-Christian
 I’m very interested in programming and learning. 
-I have experience in HTML, CSS, Bootstrap and Javascript.
-I am currently learning Python and My SQL.
+I have experience in HTML, CSS, Bootstrap, Javascript, Python, Flask, MySQL.
+
+I am currently learning the MERN stack.
+
 Connect with me on linkedIn https://www.linkedin.com/in/christian-gullord-52622a13b/
 
 <!---
