@@ -1,4 +1,5 @@
-header.png
+
+![GithubProfileBanner](https://user-images.githubusercontent.com/85528979/188495687-bebfb829-82a3-4d76-aafa-c2f4e0ba6597.png)
 
 I’m very interested in programming and learning new languages. I've recently graduated from Coding Dojo where I was able to learn 3 full stack technologies, Python/Flask/MySQL, MERN and Java/Spring. 
 
