@@ -9,8 +9,6 @@ I also have quite a bit of experience with HTML, CSS, Javascript, Spring, Maven,
 Connect with me on linkedIn https://www.linkedin.com/in/christian-gullord-52622a13b/
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on personal projects to grow and learn!
 - 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on any projects to expand my knowledge
