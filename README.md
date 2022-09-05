@@ -1,4 +1,4 @@
-
+header.png
 
 I’m very interested in programming and learning new languages. I've recently graduated from Coding Dojo where I was able to learn 3 full stack technologies, Python/Flask/MySQL, MERN and Java/Spring. 
 
