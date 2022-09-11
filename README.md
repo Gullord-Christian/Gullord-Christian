@@ -4,7 +4,7 @@
 I’m very interested in programming and learning new languages. I've recently graduated from Coding Dojo where I was able to learn 3 full stack technologies, Python/Flask/MySQL, MERN and Java/Spring. 
 
 
-I also have quite a bit of experience with HTML, CSS, Javascript, Spring, Maven, Flask. On the database side, I am familiar with MongoDB and MySQL.
+I also have quite a bit of experience with HTML, CSS, Javascript, SpringBoot, Maven. On the database side, I am familiar with MongoDB and MySQL.
 
 Connect with me on linkedIn https://www.linkedin.com/in/christian-gullord-52622a13b/
 
