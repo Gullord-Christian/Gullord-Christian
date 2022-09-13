@@ -1,12 +1,12 @@
 
 ![GithubProfileBanner](https://user-images.githubusercontent.com/85528979/188495687-bebfb829-82a3-4d76-aafa-c2f4e0ba6597.png)
 
-I’m very interested in programming and learning in general, very curious about a lot of things. I've recently graduated from Coding Dojo where I was able to learn 3 full stack technologies, Python/Flask/MySQL, MERN and Java/Spring. 
+I'm very intersted in programming, and software development. I've recently graduated from Coding Dojo where I learned 3 full stack technologies: Python/Flask/MySQL, MERN and Java/Spring. 
 
 
 I also have quite a bit of experience with HTML, CSS, Javascript, SpringBoot, Apache Maven. 
 
-On the database side, I am familiar with MongoDB and MySQL and am currently working with Postgres for the first time. 
+On the database side, I am familiar with MongoDB and MySQL and am currently working with Postgres. 
 
 Connect with me on linkedIn https://www.linkedin.com/in/christian-gullord-52622a13b/
 
