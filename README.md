@@ -6,7 +6,7 @@ I'm very interested in software development and building functional applications
 
 I have a lot of experience with HTML, CSS, Javascript, SpringBoot, and Apache Maven. 
 
-On the database side, I am familiar with MongoDB and MySQL and am currently working with Postgres. 
+On the database side, I am familiar with MongoDB and MySQL currently working with Postgres. 
 
 Connect with me on linkedIn https://www.linkedin.com/in/christian-gullord-52622a13b/
 
