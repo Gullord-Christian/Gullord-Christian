@@ -8,7 +8,7 @@ I have a lot of experience with HTML, CSS, Tailwind CSS, Javascript, SpringBoot,
 
 On the database side, I am familiar with MongoDB and MySQL currently working with Postgres. 
 
-Connect with me on linkedIn https://www.linkedin.com/in/christian-gullord-52622a13b/
+Connect with me on linkedIn http://www.linkedin.com/in/christiangullord
 
 
 - 🔭 I’m currently working on personal projects to grow and learn!
