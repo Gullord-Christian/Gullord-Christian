@@ -12,7 +12,7 @@ Connect with me on linkedIn http://www.linkedin.com/in/christiangullord
 
 
 - 🔭 I’m currently working on personal projects to grow and learn!
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning PHP
 - 👯 I’m looking to collaborate on any projects to expand my knowledge.
 
 
